@@ -1,0 +1,51 @@
+Task ID,Task_Name,Task_Description,Attribute-Based Criteria,Rel_Genre,Factor,Reward (Virtual Coins),Frame
+1,Genre Explorer,Watch one movie and one episode from different genres today.,Genres of movies/episodes watched today are different.,Neutral,Genre,50,Daily
+2,Review Crusader,Write a review or rate at least one movie or episode today.,User submitted a review or rating today.,Neutral,Neutral,30,Daily
+3,Short Film Enthusiast,Watch three short films or mini-episodes today.,Duration of movies/episodes watched today is short.,Neutral,Neutral,20,Daily
+4,Trivia Explorer,Participate in the daily movie trivia quiz.,User participated in the trivia quiz today.,Neutral,Neutral,10 for each correct answer,Daily
+5,Behind the Scenes Investigator,Watch at least one behind-the-scenes featurette or commentary today.,Movies/episodes watched today have BTS content.,Neutral,BTS Content,40,Daily
+6,Director's Showcase,Watch three movies from a featured director's filmography this week.,Movies watched this week are from the same director.,Neutral,Director,60,Weekly
+7,World Cinema Voyager,Watch one movie from each continent this week.,Movies watched this week represent different continents.,Neutral,Continent,70,Weekly
+8,Classic Movie Marathon,Watch five classic movies from different decades this week.,Movies watched this week span different decades.,Neutral,Decade,80,Weekly
+9,Weekend Binge Watcher,Binge-watch an entire season or a trilogy of movies over the weekend.,User watched multiple episodes or movies over the weekend.,Neutral,Neutral,100,Weekly
+10,Family Movie Night,Host a family movie night and watch a family-friendly movie together.,Movie watched today is family-friendly.,Family,Neutral,50,Daily
+11,Movie Marathon,Watch six movies in a single day.,User completed a movie marathon of six movies in a day.,Neutral,Neutral,150,Daily
+12,Premiere Viewer,Watch the premiere episode of a new series on the day of release.,User watched the first episode of a new series on the release day.,Neutral,Series,80,Daily
+13,Double Feature,Watch two movies back-to-back in one sitting.,User watched two movies consecutively without a break.,Neutral,Neutral,30,Daily
+14,Master of Suspense,Watch three thriller/mystery movies in a week.,Movies watched this week are from the thriller/mystery genre.,Thriller/Mystery,Genre,50,Weekly
+15,Comedy Connoisseur,Watch five comedy movies in a week.,Movies watched this week are from the comedy genre.,Comedy,Genre,70,Weekly
+16,Drama Marathon,Watch all episodes of a drama series in one day.,User completed watching all episodes of a drama series in a day.,Drama,Series,120,Daily
+17,Movie Night with Friends,Host a watch party with at least three friends.,User hosted a watch party with a group of friends.,Neutral,Neutral,100,Daily
+18,Star-Studded Weekend,Watch movies starring at least three different A-list actors over the weekend.,User watched movies with multiple A-list actors.,Neutral,Actor/Actress,60,Weekly
+19,Rewind and Relive,Re-watch a favorite movie or episode.,"User re-watched a movie or episode from the ""Favorites"" list.",Neutral,Neutral,20,Daily
+20,Hidden Gem Hunter,Discover and watch a movie with less than 1000 reviews.,User watched a movie with limited reviews.,Neutral,Neutral,40,Daily
+21,Series Marathon,Watch an entire series (all seasons) within a week.,User completed watching all seasons of a series in a week.,Neutral,Series,200,Weekly
+22,Foreign Film Connoisseur,Watch at least five foreign language films in a week.,User watched multiple foreign language films this week.,Foreign Language,Genre,90,Weekly
+23,Documentary Enthusiast,Watch three documentaries in a week.,User watched multiple documentaries this week.,Documentary,Genre,60,Weekly
+24,Classic Reel Rewind,Watch at least two classic movies from different decades in one day.,User re-watched classic movies from different eras.,Classic,Decade,40,Daily
+25,Celeb Filmography,Watch three movies starring the same actor/actress in one week.,User explored movies featuring a specific actor/actress.,Neutral,Actor/Actress,50,Weekly
+26,Fantasy Escapade,Watch two fantasy or sci-fi movies back-to-back today.,User enjoyed a double feature of fantasy or sci-fi films.,Neutral,Neutral,40,Daily
+27,Mystery Marathon,Watch four mystery movies in a week.,User watched multiple mystery films this week.,Mystery,Genre,70,Weekly
+28,Romantic Flick Fiesta,Watch five romantic movies within three days.,User enjoyed a romantic movie marathon.,Romance,Genre,80,Weekly
+29,Cross-Cultural Journey,Watch a movie from each continent in one week.,User explored global cinema from different continents.,Neutral,Continent,100,Weekly
+30,Legendary Director's Cut,Watch the extended director's cut of a classic movie.,User experienced the extended version of a classic film.,Classic,Director,50,Daily
+31,Box Office Guru,Watch the top-grossing movie of the week.,User watched the highest-grossing movie this week.,Neutral,Neutral,50,Weekly
+32,Historical Drama Explorer,Watch three historical drama movies or episodes in a week.,User enjoyed historical drama content this week.,Historical Drama,Genre,60,Weekly
+33,Animated Adventure,Watch three animated movies or episodes in a week.,User explored animated content this week.,Animation,Genre,50,Weekly
+34,Midnight Movie Madness,Watch a movie late at night (after midnight).,User watched a movie during the late hours.,Neutral,Neutral,30,Daily
+35,Sci-Fi Fantasy Frenzy,Watch two sci-fi and two fantasy movies in a week.,User enjoyed a mix of sci-fi and fantasy films.,Sci-Fi/Fantasy,Genre,70,Weekly
+36,Bollywood Bonanza,Watch three Bollywood movies in a week.,User explored Bollywood cinema this week.,Bollywood,Genre,60,Weekly
+37,Documentary Deep Dive,Watch five documentaries in a week.,User delved into documentary content this week.,Documentary,Genre,80,Weekly
+38,Star Wars Saga,Watch all Star Wars movies in chronological order.,User experienced the Star Wars saga from start to finish.,Sci-Fi,Franchise,100,Weekly
+39,Cinematic Homage,Watch a movie that pays homage to another classic film.,User explored movies that pay tribute to classics.,Classic,Neutral,50,Daily
+40,Superhero Spectacle,Watch three superhero movies or episodes in a week.,User enjoyed superhero-themed content this week.,Superhero,Genre,70,Weekly
+41,International Mystery Mixer,Watch mystery movies from at least five different countries.,User explored international mystery films.,Mystery,Genre,90,Weekly
+42,Small Screen Sensation,Watch a full TV series season in a day.,User completed watching an entire TV season in one sitting.,Series,Neutral,150,Daily
+43,Musical Melody,Watch three musical movies or episodes in a week.,User explored musical-themed content this week.,Musical,Genre,50,Weekly
+44,Art House Adventure,Watch three art house or independent films in a week.,User explored art house cinema.,Art House,Genre,60,Weekly
+45,Animated Family Fun,Watch four animated family-friendly movies in a week.,User enjoyed animated content suitable for families.,Animation,Genre,70,Weekly
+46,Guilty Pleasure Movie,Watch a movie that you secretly enjoy but may not admit in public.,User indulged in a guilty pleasure movie.,Neutral,Neutral,40,Daily
+47,Conspiracy Theory Flick,Watch a movie centered around a conspiracy theory.,User explored movies with conspiracy-related themes.,Neutral,Neutral,40,Daily
+48,Time Travel Tale,Watch a movie or episode involving time travel.,User enjoyed content related to time travel.,Sci-Fi,Neutral,50,Daily
+49,Fan Theory Investigator,Watch movies based on fan theories related to a popular franchise.,User explored fan theories through films.,Neutral,Franchise,60,Weekly
+50,War Film Weekender,Watch three war movies over the weekend.,User explored movies set during wartime.,War,Genre,70,Weekly
